@@ -23,3 +23,5 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 | `campaign`  | the number of contacts made during this campaign for each client | int64 | No   | Numerical     |
 | `pdays`     | the number of days that passed since each client was last contacted in a previous campaign | int64 | No   | Numerical     |
 | `previous`  | the number of contacts made before this campaign for each client | int64 | No   | Numerical     |
+
+### Due to the inability to display images drawn using the Plotly package in the ipynb file uploaded to Github, I have provided an additional PDF file that showcases all the Plotly images.
